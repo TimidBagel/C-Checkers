@@ -1,0 +1,5 @@
+﻿  Main.c
+C:\Users\IBroomell\Documents\GitHub\Checkers-in-C\Checkers\Main.c(13,10): warning C4476: 'scanf_s' : unknown type field character ' ' in format specifier
+C:\Users\IBroomell\Documents\GitHub\Checkers-in-C\Checkers\Main.c(13,23): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\IBroomell\Documents\GitHub\Checkers-in-C\Checkers\Main.c(13,23): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Checkers.vcxproj -> C:\Users\IBroomell\Documents\GitHub\Checkers-in-C\Checkers\x64\Debug\Checkers.exe
