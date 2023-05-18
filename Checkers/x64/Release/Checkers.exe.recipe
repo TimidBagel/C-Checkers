@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\slapr\Documents\GitHub\Checkers-in-C\Checkers\x64\Debug\Checkers.exe</FullPath>
+      <FullPath>C:\Users\slapr\Documents\GitHub\Checkers-in-C\Checkers\x64\Release\Checkers.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
